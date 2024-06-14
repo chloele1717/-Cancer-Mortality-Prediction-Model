@@ -38,6 +38,6 @@ have large ranges between their min and max values, which might require scaling
 method to bring the values to similar range
 
 ## Dataset:
-
 Training set: https://drive.google.com/file/d/1qe5KgjJrITsw1h8t-fJhqJw2DMtcfaW5/view
+
 Testing set: https://drive.google.com/file/d/1OT6Y7TXT4c630XPKrl-uh3DmcSOpOypq/view
